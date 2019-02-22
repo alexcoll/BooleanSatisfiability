@@ -4,8 +4,9 @@ https://en.wikipedia.org/wiki/Boolean_satisfiability_problem
 
 Boolean Satisfiability is the problem of determining if there exists an interpretation that satisfies a given Boolean formula. In other words, it asks whether the variables of a given Boolean formula can be consistently replaced by the values TRUE or FALSE in such a way that the formula evaluates to TRUE.
 
-This was a project for Purdue CS182, Fundamentals of Computer Science (Discrete Mathematics). Don't copy this for your assignments, you'll probably get caught for cheating.
+This code was written in a hurry, so it might not be the best, but it works!
 
+This was a project for Purdue CS182, Fundamentals of Computer Science (Discrete Mathematics). Don't copy this for your assignments, you'll probably get caught for cheating.
 
 I hereby release this code under the GPL v3. 
 
