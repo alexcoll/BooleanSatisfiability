@@ -9,7 +9,7 @@ This was a project for Purdue CS182, Fundamentals of Computer Science (Discrete 
 
 I hereby release this code under the GPL v3. 
 
-Copyright (C) year  Alexander Coll
+Copyright (C) 2015  Alexander Coll
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
